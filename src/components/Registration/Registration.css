@@ -1,0 +1,23 @@
+img{
+    width: 20%;
+}
+.register-form {
+    max-width: 500px;
+    margin: auto;
+    margin-top: 75px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: white;
+    padding: 100px;
+}
+.register-form input {
+    display: block;
+    margin-top: 30px;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 300px;
+}
+.error{
+    color: red;
+}
